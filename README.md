@@ -3,7 +3,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [COMP1238 Notes](comp1238.md)
-# My Weekly Schedule
+## My Weekly Schedule
 - Monday
   - 16:00-18:00 - [COMP1236 - FUND. OF COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/416378)
   - 18:00-20:00 - [COMP1234 - INTRODUCTION TO WEB DEVELOP.](https://learn.georgebrown.ca/d2l/home/416188)
