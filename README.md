@@ -17,6 +17,6 @@
   - 10:00-12:00 - [COMP1162 - MATH FOR COMPUTER](https://learn.georgebrown.ca/d2l/home/405827)
   - 14:00-16:00 - [COMP1234 - INTRODUCTION TO WEB DEVELOP.](https://learn.georgebrown.ca/d2l/home/416188)
 - Friday
-- - 9:00-12:00 - [COMP1000 - INTRO TO COLLEGE COMUNNICATION](https://learn.georgebrown.ca/d2l/home/397499)
+  - 9:00-12:00 - [COMP1000 - INTRO TO COLLEGE COMUNNICATION](https://learn.georgebrown.ca/d2l/home/397499)
   - 12:00-13:00 - [COMP1238 - INTRODUCTION OF DATA MGMT](https://learn.georgebrown.ca/d2l/home/412494)
   - 15:00-17:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/408352)
